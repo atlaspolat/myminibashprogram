@@ -1,0 +1,1 @@
+# A small bash program to translate small texts
